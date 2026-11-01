@@ -1,0 +1,9 @@
+db.url=jdbc:mysql://localhost:3306/parkease?serverTimezone=UTC
+db.user=root
+db.password=CHANGE_ME
+
+# Configurable hourly rates in INR
+rate.bike=10.00
+rate.car=30.00
+rate.truck=60.00
+
