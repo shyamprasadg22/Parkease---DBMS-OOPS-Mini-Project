@@ -1,4 +1,6 @@
-# ParkEase Smart Parking Lot (Enhanced)
+# Parkease---DBMS-OOPS-Mini-Project
+
+## ParkEase Smart Parking Lot (Enhanced)
 
 A robust, enterprise-grade Java console parking management system backed by MySQL through JDBC.
 
